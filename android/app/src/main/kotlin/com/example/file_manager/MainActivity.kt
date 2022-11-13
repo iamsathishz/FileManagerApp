@@ -1,4 +1,4 @@
-package com.example.file_manager
+package com.sathish.file_manager
 
 import io.flutter.embedding.android.FlutterActivity
 
